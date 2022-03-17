@@ -12,7 +12,7 @@ It's a repository that contains the information of all the Dashboards that i hav
 
 ## Projects(Many more are in queue)
 #### 1. Yes Bank Stock Analytics
-This dashboard visualization was based on Yes Bank stock market data.In this dashboard we have used the old and current data upto 2019 to analyze and predict the trend of yes bank stock analysis.
+This dashboard visualization was based on Yes Bank stock market data.In this dashboard we have used the old and current data upto 2019 to analyze and predict the trend of yes bank stock analysis. 
 
 ![App Screenshot](https://www.linkpicture.com/q/111_26.jpg)
 
