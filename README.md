@@ -26,7 +26,6 @@ This dashboard visualization was based on Life Insurance data.In this dashboard 
 ![App Screenshot](https://www.linkpicture.com/q/2222_8.jpg)
 
 
-
 ## Contributing
 
 Contributions are always welcome!
